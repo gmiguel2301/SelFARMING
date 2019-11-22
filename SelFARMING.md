@@ -120,7 +120,8 @@ Finally, it is recommended to load the preset code in the arduino for the step m
 
 # YouTUBE
 
-
+Explanatory video of the project on the youtube platform:
+https://www.youtube.com/watch?v=6eAcHAibcwQ&feature=youtu.be 
 
 # Universidad de Ibagué
 
