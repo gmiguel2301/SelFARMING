@@ -122,12 +122,14 @@ Finally, it is recommended to load the preset code in the arduino for the step m
 
 Explanatory video of the project on the youtube platform: https://www.youtube.com/watch?v=6eAcHAibcwQ&feature=youtu.be 
 
-# Universidad de Ibagué
-
-Electronic Engineering
+# Authors
 
 Sofia Luisa Carolina Bonilla Beltrán
 
 Juan Fernando Ardila Duque
 
 Miguel Angel Gonzalez Flórez
+
+# Tutor
+
+Harold Fabián Murcia Moreno
