@@ -16,7 +16,7 @@ To solve the problem, it is decided to create a system in which the crops can be
 - Python
 - Ubuntu 18.04
 
-# How to install the necessary libraries?
+# How to install the libraries?
 ```sh
 - pip install stmplib
 - pip install ssh
@@ -36,7 +36,7 @@ ssh pi@172.17.92.133
 ```
 Being 172.17.92.133 the IP that our Raspberry has, this command is written on the computer that will control the raspberry
 
-# How to run the code correctly?
+# How to run the code?
 
 The system has two main codes in which the actions will be executed as certain actions are loaned, in order to automate the cultivation of the plant, which can be found in the SelFARMING folder located on the Raspberry Desktop.
 
