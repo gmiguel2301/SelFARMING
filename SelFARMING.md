@@ -118,6 +118,10 @@ python sensoress.py & python pagina.py
 ```
 Finally, it is recommended to load the preset code in the arduino for the step motor, which works by means of conditionals in which they activate the object in one direction or another as they fulfill their sentence.
 
+# YouTUBE
+
+
+
 # Universidad de Ibagué
 
 Electronic Engineering
